@@ -19,7 +19,7 @@ Predict apartment prices in Île-de-France using Machine Learning.
 
 ## Results
 - Significant improvement over baseline
-- Error factor reduced to ~1.4–1.5
+- Error factor reduced to ~1.05
 - Feature importance analysis confirms market logic
 
 ## Tech Stack
@@ -30,3 +30,4 @@ Predict apartment prices in Île-de-France using Machine Learning.
 
 ## Author
 ESIEE Paris – Data & AI track
+
